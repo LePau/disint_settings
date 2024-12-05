@@ -1,0 +1,106 @@
+[
+  {
+    "ref": "main",
+    "remoteUrl": "http://d.l/local/sandbox",
+    "id": "/d.l/local/sandbox?ref=main",
+    "authorName": "Local auther",
+    "email": "email@local.com",
+    "corsProxy": "",
+    "pat": "",
+    "privateKey": "",
+    "encryptionRecipients": [],
+    "remoteRefOid": "",
+    "isActive": true,
+    "refs": [
+      "main"
+    ],
+    "username": "user",
+    "mergeConflictPaths": [],
+    "mergeConflictRefs": [],
+    "isCloned": true,
+    "uncommittedChanges": [],
+    "nonSensitiveSaveDate": "2024-12-05T21:20:28.609Z",
+    "sensitiveSaveDate": "2024-12-04T22:06:05.781Z",
+    "fallbackEncryptionRecipients": [],
+    "fallbackPat": "",
+    "fallbackCorsProxy": "",
+    "pathPrefix": "/d.l/local/sandbox-18f62i"
+  },
+  {
+    "remoteUrl": "https://github.com/LePau/testghnew.git",
+    "ref": "main",
+    "mergeConflictRefs": [],
+    "isActive": false,
+    "isCloned": true,
+    "authorName": "le",
+    "email": "101608950+LePau@users.noreply.github.com",
+    "id": "/github.com/LePau/testghnew.git?ref=main",
+    "pathPrefix": "/github.com/LePau/testghnew.git-jb1qhi",
+    "fallbackCorsProxy": "",
+    "fallbackPat": "",
+    "fallbackEncryptionRecipients": [],
+    "refOid": "49ca32d5582bde6bccbb66e07767fd851935baa5",
+    "remoteRefOid": "49ca32d5582bde6bccbb66e07767fd851935baa5",
+    "uncommittedChanges": [],
+    "refs": [
+      "main"
+    ],
+    "encryptionRecipients": [
+      ""
+    ],
+    "pat": "",
+    "privateKey": "",
+    "nonSensitiveSaveDate": "2024-12-05T21:20:28.609Z",
+    "corsProxy": ""
+  },
+  {
+    "remoteUrl": "https://github.com/LePau/testghnew4.git",
+    "ref": "main",
+    "mergeConflictRefs": [],
+    "isActive": false,
+    "isCloned": true,
+    "authorName": "LePau",
+    "email": "101608950+LePau@users.noreply.github.com",
+    "id": "/github.com/LePau/testghnew4.git?ref=main",
+    "pathPrefix": "/github.com/LePau/testghnew4.git-6i343i",
+    "fallbackCorsProxy": "",
+    "fallbackPat": "",
+    "fallbackEncryptionRecipients": [],
+    "refOid": "62ca16c30e495e4ca9dd14b0d5e8ea2c93696182",
+    "remoteRefOid": "62ca16c30e495e4ca9dd14b0d5e8ea2c93696182",
+    "uncommittedChanges": [],
+    "refs": [
+      "main"
+    ],
+    "pat": "",
+    "privateKey": "",
+    "nonSensitiveSaveDate": "2024-12-05T21:20:28.609Z",
+    "encryptionRecipients": [],
+    "corsProxy": ""
+  },
+  {
+    "remoteUrl": "https://github.com/LePau/written-quality.git",
+    "ref": "main",
+    "mergeConflictRefs": [],
+    "isActive": false,
+    "isCloned": true,
+    "authorName": "LePau",
+    "email": "101608950+LePau@users.noreply.github.com",
+    "id": "/github.com/LePau/written-quality.git?ref=main",
+    "pathPrefix": "/github.com/LePau/written-quality.git-g89sj",
+    "fallbackCorsProxy": "",
+    "fallbackPat": "",
+    "fallbackEncryptionRecipients": [],
+    "refOid": "1582f475775fdc95603f2cc024477d03cc5449a6",
+    "remoteRefOid": "1582f475775fdc95603f2cc024477d03cc5449a6",
+    "uncommittedChanges": [],
+    "refs": [
+      "main"
+    ],
+    "pat": "",
+    "privateKey": "",
+    "nonSensitiveSaveDate": "2024-12-05T21:20:28.609Z",
+    "encryptionRecipients": [],
+    "corsProxy": ""
+  }
+]
