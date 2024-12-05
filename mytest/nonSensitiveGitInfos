@@ -19,7 +19,7 @@
     "mergeConflictRefs": [],
     "isCloned": true,
     "uncommittedChanges": [],
-    "nonSensitiveSaveDate": "2024-12-05T21:20:28.609Z",
+    "nonSensitiveSaveDate": "2024-12-05T21:22:12.937Z",
     "sensitiveSaveDate": "2024-12-04T22:06:05.781Z",
     "fallbackEncryptionRecipients": [],
     "fallbackPat": "",
@@ -50,7 +50,7 @@
     ],
     "pat": "",
     "privateKey": "",
-    "nonSensitiveSaveDate": "2024-12-05T21:20:28.609Z",
+    "nonSensitiveSaveDate": "2024-12-05T21:22:12.937Z",
     "corsProxy": ""
   },
   {
@@ -74,7 +74,7 @@
     ],
     "pat": "",
     "privateKey": "",
-    "nonSensitiveSaveDate": "2024-12-05T21:20:28.609Z",
+    "nonSensitiveSaveDate": "2024-12-05T21:22:12.937Z",
     "encryptionRecipients": [],
     "corsProxy": ""
   },
@@ -99,8 +99,36 @@
     ],
     "pat": "",
     "privateKey": "",
-    "nonSensitiveSaveDate": "2024-12-05T21:20:28.609Z",
+    "nonSensitiveSaveDate": "2024-12-05T21:22:12.937Z",
     "encryptionRecipients": [],
     "corsProxy": ""
+  },
+  {
+    "ref": "main",
+    "remoteUrl": "https://github.com/LePau/disint_settings",
+    "id": "/github.com/LePau/disint_settings?ref=main",
+    "authorName": "Local auther",
+    "email": "email@local.com",
+    "corsProxy": "",
+    "pat": "",
+    "privateKey": "",
+    "encryptionRecipients": [],
+    "remoteRefOid": "aca63d1dfa9dd72ae612f1f18da6554c479496a2",
+    "isActive": true,
+    "refs": [
+      "main"
+    ],
+    "username": "user",
+    "mergeConflictPaths": [],
+    "mergeConflictRefs": [],
+    "isCloned": true,
+    "uncommittedChanges": [],
+    "nonSensitiveSaveDate": "2024-12-05T21:22:12.937Z",
+    "sensitiveSaveDate": "2024-12-05T21:21:49.456Z",
+    "fallbackEncryptionRecipients": [],
+    "fallbackPat": "",
+    "fallbackCorsProxy": "",
+    "pathPrefix": "/github.com/LePau/disint_settings-ngvhb",
+    "refOid": "aca63d1dfa9dd72ae612f1f18da6554c479496a2"
   }
 ]
